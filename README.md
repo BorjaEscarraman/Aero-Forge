@@ -19,3 +19,7 @@ Podcasts I use along the way for entertainment as I design.
 
 Sick Rocket Launch photo galleries.
 - https://www.launchphotography.com/Launch_Photos_2020-2024
+
+
+Additive Manufacturing.
+- https://www.youtube.com/watch?v=P5-jtvYlA1c&sttick=0
