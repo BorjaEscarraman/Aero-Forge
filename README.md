@@ -23,3 +23,37 @@ Sick Rocket Launch photo galleries.
 
 Additive Manufacturing.
 - https://www.youtube.com/watch?v=P5-jtvYlA1c&sttick=0
+
+- Engine Technology.
+- https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/engines.html
+- https://www.youtube.com/watch?v=3isXaIQ3Lkk
+
+- CAD
+- https://www.youtube.com/watch?v=G7wnGeR_69k&t=185s
+- https://ambientcg.com/list?sort=popular (Texture Library)
+
+- CFD Sources.
+- https://www.wolfdynamics.com/index.php
+
+- Miscellaneous
+- http://heroicrelics.org/index.html (Gallery of Aircraft/Missiles) during historic events)
+- https://www.youtube.com/watch?v=u-jXF1YXxFE - Engineer designing a LRE
+- http://www.braeunig.us/space/basics.htm - Basics of Spaceflight
+- https://www.youtube.com/@VDEngineering/videos - Spectacularly Clear Aerospace Engineering Technical Knowledge Walkthroughs
+- https://www.youtube.com/@interfluo6420/videos (General Technical Tool Learning)
+- https://www.youtube.com/watch?v=u-jXF1YXxFE (General Technical Tool Learning 2)
+- https://www.youtube.com/@JoshTheEngineer/playlists (General Technical Tool Learning 3)
+- https://encyclopedia.pub/entry/30884?utm
+- https://everydayastronaut.com/how-to-start-a-rocket-engine/
+- https://everydayastronaut.com/rocket-engine-cycles/
+- https://blog.ablspacesystems.com/p/building-e2
+- https://www.galaxus.at/en/page/how-to-build-a-rocket-engine-19640
+- https://www.instructables.com/Simple-Solid-Rocket-Engine/
+- https://www.youtube.com/watch?v=eVvIZ3f2tSU
+- https://www.youtube.com/watch?v=UXIOxR5ImjQ
+- https://www.youtube.com/watch?v=UXIOxR5ImjQ (model and Simulation Rocketry).
+- https://www.youtube.com/watch?v=ae-5nOkSN_k (Rocket Engine Anatomy).
+- https://dsiac.dtic.mil/technical-inquiries/notable/introduction-to-guidance-navigation-and-control-gnc/
+- https://empoweringpumps.com/cfturbo-conceptual-design-of-a-cryogenic-rocket-turbopump/
+- https://www.youtube.com/watch?v=HMnHlsxwBGI [Specific Aerospace Explanations]
+- https://www.youtube.com/@scottmanley/videos
