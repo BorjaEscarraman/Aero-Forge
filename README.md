@@ -4,7 +4,7 @@ This repository exposes engineered parts and the documentation to track evolutio
 References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
 
 
-My ultimate aim is to become profficient not only in Solidworks, but also in miniziming noise while scavenging for segments of information in different sources that support what I want to build at the moment.
+My ultimate aim is to become profficient in the workflow of miniziming noise while scavenging for segments of information in different sources that support what I want to build at the moment.
 
 The chain of my workflow;
 - Research → model → iterate.
