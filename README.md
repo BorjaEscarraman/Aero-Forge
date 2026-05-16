@@ -5,7 +5,7 @@ CAD - GD&T - FEA - CFD - Manufacturing
 This space exposes engineered parts and the documentation to track evolution both in the part and myself [from knowing Zero CAD / FEA / CFD up to my current level] for constant feedback.
 References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
 
-The Internet is truly immense... and whenever I had somewhat of an interest in building or learning something, there is an infinite amount of resources you can dig into, so it tends to be quite overwhelming. On that account, my ultimate aim in here, is to become profficient in the workflow of minimizing noise during the absorption of only the essential information... as I navigate for information rapidly between different sources, I want to be able to figure out at the snap of my fingers, what's useful and what's not, for the sake of what I want to build at the moment.
+The Internet is truly immense... any time I had a particular interest in building or learning something, there is an infinite amount of resources you can dig into, so it tends to be quite overwhelming. On that account, my ultimate aim in here, is to become profficient in the workflow of minimizing noise during the absorption of only the essential information... as I navigate for information rapidly between different sources, I want to be able to figure out at the snap of my fingers, what's useful and what's not, for the sake of what I want to build at the moment.
 
 **The chain of my workflow;**
 - Research → model → iterate.
