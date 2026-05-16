@@ -11,7 +11,8 @@ The Internet is truly immense... and whenever I had somewhat of an interest in b
 - Research → model → iterate.
 
 **Main entertainment and source of inspiration.** \
-Podcasts I use along the way for entertainment as I design.
+
+Podcasts I used along the way for entertainment as I design.
 - https://youtube.com/@alfonsogonzalez-astrodynam2207?si=hfktORubfQl0rwSX
 
 Sick Rocket Launch photo galleries...
