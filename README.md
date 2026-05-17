@@ -67,3 +67,6 @@ As the amount of references I dug into to learn in this "Space" is absolutely va
 - https://www.youtube.com/watch?v=3isXaIQ3Lkk
 
 
+[Dimitri CFD pathline animation](Animation.gif)
+
+
