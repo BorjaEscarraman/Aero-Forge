@@ -23,7 +23,8 @@ Gif to MP4 Converter for the Github Pages Appropiate formatting of Visuals.
 https://ezgif.com/gif-to-mp4
 
 
-<img width="2778" height="1874" alt="Reckon Orb" src="https://github.com/user-attachments/assets/5ea14e4b-1a09-4e5f-866a-7f0cf5cfa159" />
+<img width="2723" height="1874" alt="Reckon Orb" src="https://github.com/user-attachments/assets/78d17003-997f-46da-8508-28e851446650" />
+
 
 
 As the amount of references I dug into to learn in this "Space" is absolutely vast and mostly described in the parts in the project section... I decided to update this list with resources I see myself going back to a considerable amount of times.
