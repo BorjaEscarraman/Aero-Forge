@@ -18,6 +18,10 @@ The Internet is truly immense... any time I had a particular interest in buildin
 **Sick Rocket Launch photo galleries...**
 - https://www.launchphotography.com/Launch_Photos_2020-2024
 
+Gif to MP4 Converter for the Github Pages Appropiate formatting of Visuals.
+https://ezgif.com/gif-to-mp4
+
+
 As the amount of references I dug into to learn in this "Space" is absolutely vast and mostly described in the parts in the project section... I decided to update this list with resources I see myself going back to a considerable amount of times.
 
 **CAD.**
