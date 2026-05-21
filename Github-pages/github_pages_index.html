@@ -82,20 +82,28 @@
 </figure>
 
 <figure>
-  <img
-    src="Dimitri.mp4"
-    alt="Dimitri Reaction of Flow Animation"
-    class="demo-mp4"
-  />
+  <video
+    class="demo-video"
+    controls
+    autoplay
+    muted
+    loop
+    playsinline
+  >
+    <source src="Themis.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <figcaption>Dimitri CFD</figcaption>
 </figure>
 
 <style>
-  .demo-gif {
+  .demo-gif,
+  .demo-video {
     width: 80%;
     max-width: 900px;
     border-radius: 16px;
     display: block;
+    margin: 0 auto;
   }
 
   figure {
