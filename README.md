@@ -1,11 +1,11 @@
 # Aero-Forge... CAE
 
 **Workflow of interest...** \
-CAD - GD&T - FEA - CFD - Manufacturing [3D Additive]
+CAD - GD&T - FEA - CFD - Manufacturing
 
 Don't focus in learning the software, but the workflow above intuitively, the learning curve is guaranteed to accelerate... 
 
-**Tools of interest**
+**Tools of interest** \
 Solidworks and NX Siemens
 ANSYS -> Mechanical and Fluent.
 OpenFOAM
