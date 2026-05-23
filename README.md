@@ -5,11 +5,16 @@ CAD - GD&T - FEA - CFD - Manufacturing
 
 Don't focus in learning the software, but the workflow above intuitively. Do that, and the learning curve is guaranteed to accelerate... 
 
-**Tools of interest...** \
-Solidworks and NX Siemens
-ANSYS -> Mechanical and Fluent.
-OpenFOAM
-3D Slicer
+**Tools of interest...** 
+- Solidworks
+  
+- NX Siemens & Star-CCM+
+   
+- ANSYS
+
+- OpenFOAM
+
+- 3D Slicer
 
 This space exposes engineered parts and the documentation to track evolution both in the part and myself [from knowing Zero CAD / FEA / CFD up to my current level] for constant feedback.
 References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
