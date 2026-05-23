@@ -1,7 +1,7 @@
 # Aero-Forge... CAE
 
 **Tools of interest...** \
-CAD [Solidworks] - GD&T [Solidworks] - FEA [Ansys Mechanical] - CFD [Ansys Fluent & OpenFOAM] - Manufacturing [Additive]
+CAD [Solidworks] - GD&T [Solidworks] - FEA [Ansys Mechanical] - CFD [Ansys Fluent & OpenFOAM] - Manufacturing [3D Additive]
 
 This space exposes engineered parts and the documentation to track evolution both in the part and myself [from knowing Zero CAD / FEA / CFD up to my current level] for constant feedback.
 References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
