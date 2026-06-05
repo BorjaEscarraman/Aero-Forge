@@ -1,6 +1,20 @@
 # Aero-Forge... CAE
-**Tools of interest...** \
+
+**Workflow of interest...** \
 CAD - GD&T - FEA - CFD - Manufacturing
+
+Don't focus in learning the software, but the workflow above intuitively. Do that, and the learning curve is guaranteed to accelerate... 
+
+**Tools of interest...** 
+- Solidworks
+  
+- NX Siemens & Star-CCM+
+   
+- ANSYS
+
+- OpenFOAM
+
+- 3D Slicer
 
 This space exposes engineered parts and the documentation to track evolution both in the part and myself [from knowing Zero CAD / FEA / CFD up to my current level] for constant feedback.
 References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
@@ -20,6 +34,10 @@ The Internet is truly immense... any time I had a particular interest in buildin
 
 Gif to MP4 Converter for the Github Pages Appropiate formatting of Visuals.
 https://ezgif.com/gif-to-mp4
+
+
+<img width="2723" height="1874" alt="Reckon Orb" src="https://github.com/user-attachments/assets/78d17003-997f-46da-8508-28e851446650" />
+
 
 
 As the amount of references I dug into to learn in this "Space" is absolutely vast and mostly described in the parts in the project section... I decided to update this list with resources I see myself going back to a considerable amount of times.
