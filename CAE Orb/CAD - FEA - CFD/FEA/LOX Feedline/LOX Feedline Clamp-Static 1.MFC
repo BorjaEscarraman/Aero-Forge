@@ -1,0 +1,16 @@
+[StartTime]
+LOX Feedline Clamp-Static 1.MFC=3s
+[SolverState]
+LOX Feedline Clamp-Static 1.MFC=2
+[MainFrame]
+LOX Feedline Clamp-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+LOX Feedline Clamp-Static 1.MFC=No
+[SolverType]
+LOX Feedline Clamp-Static 1.MFC=Linear Analysis
+[StudyType]
+LOX Feedline Clamp-Static 1.MFC=0
+[StudyName]
+LOX Feedline Clamp-Static 1.MFC=Static 1
+[Solver]
+LOX Feedline Clamp-Static 1.MFC=Iterative

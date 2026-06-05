@@ -1,0 +1,13 @@
+Metric Ruler dimensions.
+Hook #1 (super simple):
+“Big numbers = centimeters. Tiny ticks = millimeters. 10 tiny ticks per big number.”
+
+Hook #2 (counting mantra):
+“Find the last big number… then count the tiny ticks.”
+(Last cm, then +mm)
+
+Hook #3 (visual):
+“Long = 1 cm, medium = 5 mm, short = 1 mm.”
+
+If you want one single line to tattoo into your brain:
+“Big = cm, small = mm, 10 small = 1 big.”

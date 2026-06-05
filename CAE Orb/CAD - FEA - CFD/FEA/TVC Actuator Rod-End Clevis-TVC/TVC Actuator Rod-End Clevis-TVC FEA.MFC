@@ -1,0 +1,16 @@
+[StartTime]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=8s
+[SolverState]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=2
+[MainFrame]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=No
+[SolverType]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=Linear Analysis
+[StudyType]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=0
+[StudyName]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=TVC FEA
+[Solver]
+TVC Actuator Rod-End Clevis-TVC FEA.MFC=Iterative
