@@ -46,7 +46,7 @@ As the amount of references I dug into to learn in this "Space" is absolutely va
 - https://www.sharetextures.com
 - https://ambientcg.com
 - https://polyhaven.com
-- - https://www.youtube.com/watch?v=G7wnGeR_69k&t=185s
+- https://www.youtube.com/watch?v=G7wnGeR_69k&t=185s
 - https://ambientcg.com/list?sort=popular (Texture Library)
 
 **FEA**
