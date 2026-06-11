@@ -54,6 +54,8 @@ As the amount of references I dug into to learn in this "Space" is absolutely va
 
 **CFD.**
 - https://www.wolfdynamics.com/index.php
+- https://www.youtube.com/@AnsysTutor/videos
+- https://innovationspace.ansys.com/courses/learning-track/cornell-simcafe-fluids/
 
 
 **Additive Manufacturing.**
