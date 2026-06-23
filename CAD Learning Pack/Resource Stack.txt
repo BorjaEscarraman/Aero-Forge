@@ -1,0 +1,28 @@
+Tier 1 — SolidWorks fundamentals
+
+https://my.solidworks.com/training/path/14
+
+
+Tier 2 — Aerospace drawing / GD&T
+
+ASME Y14.5 for GD&T logic.
+NASA engineering drawing standards for aerospace-style drawing expectations. NASA’s GSFC Engineering Drawing Standards Manual is described as an official source for requirements and interpretations in engineering drawing development.
+NASA Technical Standards portal for official standards by discipline.
+
+https://standards.nasa.gov/NASA-Technical-Standards
+
+Tier 3 — Propulsion PDF's in Pack.
+
+
+Always ensure you know...
+
+Function: What does this part do?
+Interfaces: What does it touch?
+Datums: What locates it?
+Loads / pressure: What forces or fluid pressure matter?
+Manufacturing: How would it be made?
+Assembly: Can it be installed and serviced?
+Drawing: Can someone else manufacture it from the drawing?
+Revision: Can I change key dimensions without breaking the model?
+Verification: Did I check mass, interference, and section views?
+GitHub: Did I document what changed and what I learned?
